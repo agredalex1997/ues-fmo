@@ -10,6 +10,7 @@
 #ns,
 #eo {
     background-color: blue;
+    transition: all 0.2s ease;
 }
 
 #ns {
