@@ -1,0 +1,50 @@
+#ns,
+#eo,
+#n,
+#s,
+#e,
+#o {
+    position: absolute;
+}
+
+#ns,
+#eo {
+    background-color: blue;
+}
+
+#ns {
+    width: 20px;
+    height: 100px;
+    left: 70px;
+    top: 30px;
+}
+
+#eo {
+    width: 100px;
+    height: 20px;
+    top: 65px;
+    left: 30px;
+}
+
+#n {
+    left: 70px;
+}
+
+#s {
+    left: 70px;
+    top: 135px;
+}
+
+#e,
+#o {
+    top: 65px;
+}
+
+#e {
+    left: 135px;
+}
+
+#eo.green,
+#ns.green {
+    background-color: green;
+}
